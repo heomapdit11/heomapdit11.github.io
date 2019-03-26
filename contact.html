@@ -82,7 +82,7 @@
                           </li>
                         </ul>
                       </li>
-                      <li class="dropdown active">
+                      <li class="dropdown">
                         <a href="#">Pages</a>
                         <ul class="dropdown-menu">
                           <li><a href="about.html">About us</a></li>
@@ -108,7 +108,7 @@
                           <li><a href="post_right_sidebar.html">Post right sidebar</a></li>
                         </ul>
                       </li>
-                      <li>
+                      <li class="active">
                         <a href="contact.html">Contact</a>
                       </li>
                     </ul>
@@ -130,12 +130,12 @@
     <div class="container">
       <div class="row">
         <div class="span4">
-          <h3>About <strong>our company</strong></h3>
+          <h3>Get <strong>in touch</strong></h3>
         </div>
         <div class="span8">
           <ul class="breadcrumb notop">
             <li><a href="#">Home</a><span class="divider">/</span></li>
-            <li class="active">About</li>
+            <li class="active">Contact</li>
           </ul>
         </div>
       </div>
@@ -147,91 +147,72 @@
     <div class="container">
       <div class="row">
         <div class="span4">
-          <div class="well">
-            <div class="centered e_bounce">
-              <i class="icon-bg-light icon-circled icon-group icon-3x active"></i>
-              <h4><strong>Best</strong> team</h4>
-              <p>
-                Dolorem adipiscing definiebas ut nec. Dolore consectetuer eu vim, elit molestie ei has, petentium imperdiet in pri. Mel virtute efficiantur ne, zril omnes sed no, sit eu duis semper.
-              </p>
+          <aside>
+            <div class="widget">
+              <h4>Get in touch with us</h4>
+              <ul>
+                <li><label><strong>Phone : </strong></label>
+                  <p>
+                    +900 888 707 123
+                  </p>
+                </li>
+                <li><label><strong>Email : </strong></label>
+                  <p>
+                    name@yoursite.com
+                  </p>
+                </li>
+                <li><label><strong>Office address : </strong></label>
+                  <p>
+                    Pasar sate tusuk 22A Ave X.300 Peterongan Semarang, Indonesia
+                  </p>
+                </li>
+              </ul>
             </div>
-          </div>
-        </div>
-        <div class="span4">
-          <div class="well">
-            <div class="centered e_bounce">
-              <i class="icon-bg-light icon-circled icon-rocket icon-3x active"></i>
-              <h4><strong>High</strong> dedication</h4>
-              <p>
-                Dolorem adipiscing definiebas ut nec. Dolore consectetuer eu vim, elit molestie ei has, petentium imperdiet in pri. Mel virtute efficiantur ne, zril omnes sed no, sit eu duis semper.
-              </p>
+            <div class="widget">
+              <h4>Social network</h4>
+              <ul class="social-links">
+                <li><a href="#" title="Twitter"><i class="icon-bg-light icon-twitter icon-circled icon-1x active"></i></a></li>
+                <li><a href="#" title="Facebook"><i class="icon-bg-light icon-facebook icon-circled icon-1x active"></i></a></li>
+                <li><a href="#" title="Google plus"><i class="icon-bg-light icon-google-plus icon-circled icon-1x active"></i></a></li>
+                <li><a href="#" title="Linkedin"><i class="icon-bg-light icon-linkedin icon-circled icon-1x active"></i></a></li>
+                <li><a href="#" title="Pinterest"><i class="icon-bg-light icon-pinterest icon-circled icon-1x active"></i></a></li>
+              </ul>
             </div>
-          </div>
+          </aside>
         </div>
-        <div class="span4">
-          <div class="well">
-            <div class="centered e_bounce">
-              <i class="icon-bg-light icon-circled icon-heart icon-3x active"></i>
-              <h4><strong>Work</strong> with heart</h4>
-              <p>
-                Dolorem adipiscing definiebas ut nec. Dolore consectetuer eu vim, elit molestie ei has, petentium imperdiet in pri. Mel virtute efficiantur ne, zril omnes sed no, sit eu duis semper.
-              </p>
-            </div>
+        <div class="span8">
+          <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="span12">
-          <div class="solid_line">
+          <div class="spacer30">
           </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="span12">
-          <h4>Our services</h4>
-          <!-- start: Accordion -->
-          <div class="accordion" id="accordion2">
-            <div class="accordion-group">
-              <div class="accordion-heading">
-                <a class="accordion-toggle active" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-						<i class="icon-minus"></i> Database management</a>
+
+          <div id="sendmessage">Your message has been sent. Thank you!</div>
+          <div id="errormessage"></div>
+          <form action="" method="post" role="form" class="contactForm">
+            <div class="row">
+              <div class="span4 form-group">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                <div class="validation"></div>
               </div>
-              <div id="collapseOne" class="accordion-body collapse in">
-                <div class="accordion-inner">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird
-                  on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table,
-                  raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+
+              <div class="span4 form-group">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                <div class="validation"></div>
+              </div>
+              <div class="span8 form-group">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <div class="validation"></div>
+              </div>
+              <div class="span8 form-group">
+                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                <div class="validation"></div>
+                <div class="text-center">
+                  <button class="btn btn-color btn-rounded" type="submit">Send message</button>
                 </div>
               </div>
             </div>
-            <div class="accordion-group">
-              <div class="accordion-heading">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-						<i class="icon-plus"></i> UI development</a>
-              </div>
-              <div id="collapseTwo" class="accordion-body collapse">
-                <div class="accordion-inner">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird
-                  on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table,
-                  raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                </div>
-              </div>
-            </div>
-            <div class="accordion-group">
-              <div class="accordion-heading">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
-						<i class="icon-plus"></i> Social media</a>
-              </div>
-              <div id="collapseThree" class="accordion-body collapse">
-                <div class="accordion-inner">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird
-                  on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table,
-                  raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--end: Accordion -->
+          </form>
         </div>
       </div>
     </div>
@@ -338,8 +319,10 @@
   <script src="assets/js/classie.js"></script>
   <script src="assets/js/cbpAnimatedHeader.min.js"></script>
   <script src="assets/js/jquery.refineslide.js"></script>
-  <script src="assets/js/animate.js"></script>
   <script src="assets/js/jquery.ui.totop.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
 
   <!-- Template Custom Javascript File -->
   <script src="assets/js/custom.js"></script>
