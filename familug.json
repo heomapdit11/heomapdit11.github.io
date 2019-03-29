@@ -1,0 +1,1479 @@
+{
+    "details": [
+        {
+            "tag": "home",
+            "title": "Tăng tốc Django API Service tới 90% với cacheops",
+            "link": "https://www.familug.org/2019/03/tang-toc-django-api-service-toi-90-voi.html"
+        },
+        {
+            "tag": "home",
+            "title": "Chia sẻ file nhạc/ảnh/video trong mạng nội bộ (UPnP/DLNA)",
+            "link": "https://www.familug.org/2018/12/chia-se-file-nhacanh-cung-mang-noi-bo.html"
+        },
+        {
+            "tag": "home",
+            "title": "Làm full tất cả CPU bằng 1 câu lệnh",
+            "link": "https://www.familug.org/2018/12/lam-full-tat-ca-cpu-bang-1-cau-lenh.html"
+        },
+        {
+            "tag": "home",
+            "title": "Random notes",
+            "link": "https://www.familug.org/2018/12/random-notes.html"
+        },
+        {
+            "tag": "home",
+            "title": "Giảm ánh sáng xanh gây mù trên máy tính với redshift, f.lux",
+            "link": "https://www.familug.org/2018/09/giam-anh-sang-xanh-tren-may-tinh-voi.html"
+        },
+        {
+            "tag": "home",
+            "title": "Di chuyển trên less - xem web bằng w3m",
+            "link": "https://www.familug.org/2018/09/di-chuyen-tren-less-xem-web-bang-w3m.html"
+        },
+        {
+            "tag": "home",
+            "title": "In ra màn hình số 1 - dùng ngôn ngữ nào nhanh/nhẹ nhất?",
+            "link": "https://www.familug.org/2018/05/dynamic.html"
+        },
+        {
+            "tag": "home",
+            "title": "UEFI vs BIOS - tạo USB boot cài Windows 10 từ Ubuntu",
+            "link": "https://www.familug.org/2018/04/uefi-vs-bios-tao-usb-boot-cai-windows.html"
+        },
+        {
+            "tag": "home",
+            "title": "ALSA, PulseAudio, JACK - âm nhạc trên Ubuntu/Linux ",
+            "link": "https://www.familug.org/2018/04/alsa-pulseaudio-jack-ubuntu.html"
+        },
+        {
+            "tag": "home",
+            "title": "Hello 2018",
+            "link": "https://www.familug.org/2018/02/hello-2018.html"
+        },
+        {
+            "tag": "python",
+            "title": "In ra màn hình số 1 - dùng ngôn ngữ nào nhanh/nhẹ nhất?",
+            "link": "https://www.familug.org/2018/05/dynamic.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] unittest với assertTrue ",
+            "link": "https://www.familug.org/2017/10/python-unittest-voi-asserttrue.html"
+        },
+        {
+            "tag": "python",
+            "title": "Thử làm một \"lập trình viên Odoo\"",
+            "link": "https://www.familug.org/2017/08/thu-lam-mot-lap-trinh-vien-odoo.html"
+        },
+        {
+            "tag": "python",
+            "title": "Làm website với công nghệ serverless",
+            "link": "https://www.familug.org/2017/08/serverless.html"
+        },
+        {
+            "tag": "python",
+            "title": "Không sudo pip, hãy virtualenv ",
+            "link": "https://www.familug.org/2017/07/khong-sudo-pip-hay-virtualenv.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] import sys",
+            "link": "https://www.familug.org/2017/06/python-import-sys.html"
+        },
+        {
+            "tag": "python",
+            "title": "Python Data Science Handbook by Jake VanderPlas",
+            "link": "https://www.familug.org/2017/06/python-data-science-handbook-by-jake.html"
+        },
+        {
+            "tag": "python",
+            "title": "Di chuyển trong file",
+            "link": "https://www.familug.org/2017/05/python-seek.html"
+        },
+        {
+            "tag": "python",
+            "title": "Học JavaScript - phần 1 - number, boolean, string",
+            "link": "https://www.familug.org/2017/04/hoc-javascript-1.html"
+        },
+        {
+            "tag": "python",
+            "title": "Phải set locale trong Upstart",
+            "link": "https://www.familug.org/2017/03/phai-set-locale-trong-upstart.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] fractions - tính toán phân số trên Python ",
+            "link": "https://www.familug.org/2017/03/python-fractions-tinh-toan-phan-so-tren.html"
+        },
+        {
+            "tag": "python",
+            "title": "Diễn đàn thảo luận Python, Django ",
+            "link": "https://www.familug.org/2017/02/dien-thao-luan-python-django.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] function là object",
+            "link": "https://www.familug.org/2017/02/function.html"
+        },
+        {
+            "tag": "python",
+            "title": "Dựng HTTP server bằng một câu lệnh ",
+            "link": "https://www.familug.org/2017/02/dung-http-server-bang-mot-cau-lenh.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Tuổi gì làm quan?",
+            "link": "https://www.familug.org/2017/01/python-tuoi-gi-lam-quan.html"
+        },
+        {
+            "tag": "python",
+            "title": "2017Project_1: Blog",
+            "link": "https://www.familug.org/2017/01/blog.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Thêm, sửa dữ liệu trong pandas DataFrame",
+            "link": "https://www.familug.org/2017/01/pandas-settings.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Kiểu dữ liệu string (phần 1)",
+            "link": "https://www.familug.org/2017/01/python-kieu-du-lieu-string-phan-1.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Kiểu dữ liệu boolean",
+            "link": "https://www.familug.org/2016/12/pymivn-kieu-du-lieu-boolean.html"
+        },
+        {
+            "tag": "python",
+            "title": "Vì sao 0.1 + 0.1 + 0.1 không bằng 0.3?",
+            "link": "https://www.familug.org/2016/12/vi-sao-01-01-01-khong-bang-03.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Pymi.vn] Tính toán cơ bản với Python ",
+            "link": "https://www.familug.org/2016/12/pymivn-tinh-toan-co-ban-voi-python.html"
+        },
+        {
+            "tag": "python",
+            "title": "[pandas] Truy cập nội dung DataFrame",
+            "link": "https://www.familug.org/2016/12/pandas-truy-cap-noi-dung-dataframe.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Pymi.vn] Python là gì? Python để làm gì? ",
+            "link": "https://www.familug.org/2016/12/pymivn-python-la-gi-python-de-lam-gi.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Tạo bảng dữ liệu với pandas",
+            "link": "https://www.familug.org/2016/12/python-pandas.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] thôi dùng subprocess.check_output",
+            "link": "https://www.familug.org/2016/12/python-thoi-dung-subprocesscheckoutput.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Ebook] Tài liệu học lập trình miễn phí ",
+            "link": "https://www.familug.org/2016/12/free-ebook.html"
+        },
+        {
+            "tag": "python",
+            "title": "Học Python - lớp PyFML 11 ",
+            "link": "https://www.familug.org/2016/11/hoc-python-lop-pyfml-11.html"
+        },
+        {
+            "tag": "python",
+            "title": "Hello, Rust!",
+            "link": "https://www.familug.org/2016/10/hello-rust.html"
+        },
+        {
+            "tag": "python",
+            "title": "Truy cập đến key của một dict trong Jinja",
+            "link": "https://www.familug.org/2016/10/jinja2-dict.html"
+        },
+        {
+            "tag": "python",
+            "title": "Đặt tên trong Python",
+            "link": "https://www.familug.org/2016/10/at-ten-trong-python.html"
+        },
+        {
+            "tag": "python",
+            "title": "Đúng và sai - kiểu Boolean trong Python",
+            "link": "https://www.familug.org/2016/10/python-boolean.html"
+        },
+        {
+            "tag": "python",
+            "title": "Tính toán bằng Python - phần 2",
+            "link": "https://www.familug.org/2016/10/tinh-toan-bang-python-phan-2.html"
+        },
+        {
+            "tag": "python",
+            "title": "Tính toán bằng Python - phần 1",
+            "link": "https://www.familug.org/2016/10/tinh-toan-bang-python-phan-1.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Happy programmer day!",
+            "link": "https://www.familug.org/2016/09/python-programmer-day-2016.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Tải nhạc từ youtube bằng dòng lệnh",
+            "link": "https://www.familug.org/2016/08/python-tai-nhac-youtube.html"
+        },
+        {
+            "tag": "python",
+            "title": "Không biết không có tội, nhưng là dốt nát, và lãng phí",
+            "link": "https://www.familug.org/2016/08/khong-biet-khong-co-toi.html"
+        },
+        {
+            "tag": "python",
+            "title": "Python tutorial Tiếng Việt",
+            "link": "https://www.familug.org/2016/08/python-tutorial-tieng-viet.html"
+        },
+        {
+            "tag": "python",
+            "title": "Học Python - Lớp PyFML 07 - Khai giảng 23/08/2016",
+            "link": "https://www.familug.org/2016/08/hoc-python-lop-pyfml-07-khai-giang.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] setup.py develop",
+            "link": "https://www.familug.org/2016/08/python-setuppy-develop.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Django] dùng cùng 1 database cho dev, test và production ",
+            "link": "https://www.familug.org/2016/08/django-dung-cung-1-database-cho-dev.html"
+        },
+        {
+            "tag": "python",
+            "title": "Memoization là gì? LRU cache là gì?",
+            "link": "https://www.familug.org/2016/07/memoization-la-gi-lru-cache-la-gi.html"
+        },
+        {
+            "tag": "python",
+            "title": "PHG - Python tool để tạo password hàng loạt cho sysadmin",
+            "link": "https://www.familug.org/2016/07/phg-python-tool-e-tao-password-hang.html"
+        },
+        {
+            "tag": "python",
+            "title": "Học Python tại Hà Nội và Sài Gòn - PyFML 06",
+            "link": "https://www.familug.org/2016/06/hoc-python-tai-ha-noi-va-sai-gon-pyfml.html"
+        },
+        {
+            "tag": "python",
+            "title": "Django 1.8 migrate siêu tốn ram, đừng khóc!",
+            "link": "https://www.familug.org/2016/05/django-18-migrate-sieu-ton-ram-ung-khoc.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] convert string thành integer",
+            "link": "https://www.familug.org/2016/05/python-convert-string-thanh-integer.html"
+        },
+        {
+            "tag": "python",
+            "title": "[python] test python đơn giản như giật một sợi tox ",
+            "link": "https://www.familug.org/2016/04/python-test-python-on-gian-nhu-giat-mot.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Người ta test/CI thế nào?",
+            "link": "https://www.familug.org/2016/04/python-nguoi-ta-testci-nao.html"
+        },
+        {
+            "tag": "python",
+            "title": "Thông báo mở lớp lập trình Python và Golang ",
+            "link": "https://www.familug.org/2016/04/thong-bao-mo-lop-lap-trinh-python-va.html"
+        },
+        {
+            "tag": "python",
+            "title": "PyJobs.vn, 12 dự án vào 200.000 lượt view",
+            "link": "https://www.familug.org/2016/03/pyjobsvn-12-du-vao-200000-luot-view.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Python tuổi gì?",
+            "link": "https://www.familug.org/2016/02/python-python-tuoi-gi.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Cuối tuần làm gì?",
+            "link": "https://www.familug.org/2016/01/python-cuoi-tuan-lam-gi.html"
+        },
+        {
+            "tag": "python",
+            "title": "Django",
+            "link": "https://www.familug.org/2015/11/django.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Hà Nội] Tuyển sinh lớp Python PyFML khoá 4 ",
+            "link": "https://www.familug.org/2015/11/ha-noi-tuyen-sinh-lop-python-pyfml-khoa.html"
+        },
+        {
+            "tag": "python",
+            "title": "Học Python tại Hà Nội",
+            "link": "https://www.familug.org/2015/10/hoc-python-tai-ha-noi.html"
+        },
+        {
+            "tag": "python",
+            "title": "[PyFML] Tuyển sinh khoá học Python tháng 8/2015",
+            "link": "https://www.familug.org/2015/07/pyfml-tuyen-sinh-khoa-hoc-python-thang.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Go] strings package - xử lý string ",
+            "link": "https://www.familug.org/2015/07/go-strings-package-xu-ly-string.html"
+        },
+        {
+            "tag": "python",
+            "title": "[SaltStack] Chào Muối, em là ai?",
+            "link": "https://www.familug.org/2015/06/saltstack-chao-muoi-em-la-ai.html"
+        },
+        {
+            "tag": "python",
+            "title": "[CodeGold] Kiểm tra 2 list giống nhau",
+            "link": "https://www.familug.org/2015/05/codegold-kiem-tra-2-list-giong-nhau.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Hanoi] học lập trình python tại lớp học của các thành viên FAMILUG",
+            "link": "https://www.familug.org/2015/05/hanoi-hoc-lap-trinh-python-tai-lop-hoc.html"
+        },
+        {
+            "tag": "python",
+            "title": "[CodeGolf] Dài nhất và ngắn nhất",
+            "link": "https://www.familug.org/2015/05/codegolf-dai-nhat-va-ngan-nhat.html"
+        },
+        {
+            "tag": "python",
+            "title": "httpbin - xem mình đã làm gì với 1 HTTP request",
+            "link": "https://www.familug.org/2015/05/httpbin-nhin-xem-minh-lam-gi-voi-1.html"
+        },
+        {
+            "tag": "python",
+            "title": "Kiểm tra một process đang chạy hay không (dựa vào PID)?",
+            "link": "https://www.familug.org/2015/03/pythonsysad-kiem-tra-mot-process-ang.html"
+        },
+        {
+            "tag": "python",
+            "title": "inodes, statvfs, và các thông số cơ bản về một filesystem",
+            "link": "https://www.familug.org/2015/03/inodes-statvfs-va-cac-thong-so-co-ban.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Tí ăn gì nhỉ?",
+            "link": "https://www.familug.org/2015/03/python-ti-gi-nhi.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] lambda",
+            "link": "https://www.familug.org/2015/02/python-lambda.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] WTF I did last year",
+            "link": "https://www.familug.org/2015/02/python-wtf-i-did-last-year.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python, bash] Kiểm tra file executable",
+            "link": "https://www.familug.org/2015/02/python-bash-kiem-tra-file-executable.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] try...finally",
+            "link": "https://www.familug.org/2015/02/python-tryfinally.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Programming] phê ROT13",
+            "link": "https://www.familug.org/2014/12/programming-phe-rot13.html"
+        },
+        {
+            "tag": "python",
+            "title": "[BSD] DragonFly BSD 4.0 chào Việt Nam",
+            "link": "https://www.familug.org/2014/11/bsd-dragonfly-bsd-40-chao-viet-nam.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] python -v",
+            "link": "https://www.familug.org/2014/11/python-python-v.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] đổi thay ",
+            "link": "https://www.familug.org/2014/10/python-oi-thay.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] đếm trong list ",
+            "link": "https://www.familug.org/2014/10/python-em-trong-list.html"
+        },
+        {
+            "tag": "python",
+            "title": "[python] except Exception",
+            "link": "https://www.familug.org/2014/09/python-except-exception.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] collections.Counter",
+            "link": "https://www.familug.org/2014/09/python-collectionscounter.html"
+        },
+        {
+            "tag": "python",
+            "title": "[python] logging: đừng format log message! ",
+            "link": "https://www.familug.org/2014/09/python-logging-ung-format-log-message.html"
+        },
+        {
+            "tag": "python",
+            "title": "[python] đếm số dòng của 1 file.",
+            "link": "https://www.familug.org/2014/09/python-em-so-dong-cua-1-file.html"
+        },
+        {
+            "tag": "python",
+            "title": "[python] time delta in seconds",
+            "link": "https://www.familug.org/2014/08/python-time-delta-in-seconds.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] __new__ và __init__, zip",
+            "link": "https://www.familug.org/2014/08/python-new-va-init-zip.html"
+        },
+        {
+            "tag": "python",
+            "title": "Chào! trello.com",
+            "link": "https://www.familug.org/2014/07/chao-trellocom.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Review] Learn python the hard way",
+            "link": "https://www.familug.org/2014/06/learn-python-hard-way-review.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Xử lý python version",
+            "link": "https://www.familug.org/2014/05/python-xu-ly-python-version.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Ternary Operator",
+            "link": "https://www.familug.org/2014/05/python-ternary-operator.html"
+        },
+        {
+            "tag": "python",
+            "title": "Y2038 - Year 2038 problem",
+            "link": "https://www.familug.org/2014/05/y2038-year-2038-problem.html"
+        },
+        {
+            "tag": "python",
+            "title": "[python] Tính ngày",
+            "link": "https://www.familug.org/2014/04/python-tinh-ngay.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] docutils package (hay nhật ký tìm hiểu 1 python package)",
+            "link": "https://www.familug.org/2014/02/python-docutils-package-hay-nhat-ky-tim.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Đọc kỹ hướng dẫn sử dụng, trước khi dùng",
+            "link": "https://www.familug.org/2014/02/python-oc-ky-huong-dan-su-dung-truoc.html"
+        },
+        {
+            "tag": "python",
+            "title": "bash vs dash vs zsh vs python cho scripting",
+            "link": "https://www.familug.org/2014/01/bash-vs-dash-vs-zsh-vs-python-cho.html"
+        },
+        {
+            "tag": "python",
+            "title": "[WeeklyVim] Ctags, Taglist - lắp cánh cho vim",
+            "link": "https://www.familug.org/2013/11/weeklyvim-ctags-taglist-lap-canh-cho-vim.html"
+        },
+        {
+            "tag": "python",
+            "title": "Công cụ quản lý truy cập đến nhiều server",
+            "link": "https://www.familug.org/2013/09/cong-cu-quan-ly-truy-cap-en-nhieu-server.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Monitoring] StatsD",
+            "link": "https://www.familug.org/2013/08/monitoring-statsd.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Programming] Kho báu",
+            "link": "https://www.familug.org/2013/08/programming-kho-bau.html"
+        },
+        {
+            "tag": "python",
+            "title": "GWT - PyJS",
+            "link": "https://www.familug.org/2013/08/gwt-pyjs.html"
+        },
+        {
+            "tag": "python",
+            "title": "Python là ngôn ngữ chính thức tại FAMILUG",
+            "link": "https://www.familug.org/2013/07/python-la-ngon-ngu-chinh-thuc-tai.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Tạo và gọi function on-fly",
+            "link": "https://www.familug.org/2013/07/python-tao-va-goi-function-on-fly.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Viết fucntion trả về function trong python",
+            "link": "https://www.familug.org/2013/07/python-viet-fucntion-tra-ve-function.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Cắt chuỗi trong Python",
+            "link": "https://www.familug.org/2013/07/cat-chuoi-trong-python.html"
+        },
+        {
+            "tag": "python",
+            "title": "YAML là gì?",
+            "link": "https://www.familug.org/2013/06/yaml-la-gi.html"
+        },
+        {
+            "tag": "python",
+            "title": "PLEAC - học các ngôn ngữ lập trình theo kiểu \"perl cookbook\"",
+            "link": "https://www.familug.org/2013/06/pleac-hoc-cac-ngon-ngu-lap-trinh-theo.html"
+        },
+        {
+            "tag": "python",
+            "title": "Script hay làm bằng tay?",
+            "link": "https://www.familug.org/2013/06/script-hay-lam-bang-tay.html"
+        },
+        {
+            "tag": "python",
+            "title": "[python] Tạo HTTP Server đơn giản bằng 1 dòng lệnh",
+            "link": "https://www.familug.org/2013/06/python-tao-http-server-on-gian-bang-1.html"
+        },
+        {
+            "tag": "python",
+            "title": "Tự viết 1 chương trình download nhạc từ nhaccuatui",
+            "link": "https://www.familug.org/2013/02/tu-viet-1-chuong-trinh-download-nhac-tu.html"
+        },
+        {
+            "tag": "python",
+            "title": "\"hack\" view",
+            "link": "https://www.familug.org/2013/01/hack-view.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Ebooks] Learn The Hard Way",
+            "link": "https://www.familug.org/2013/01/ebooks-learn-hard-way.html"
+        },
+        {
+            "tag": "python",
+            "title": "Kích hoạt tính năng hỗ trợ 256 màu của GNOME terminal",
+            "link": "https://www.familug.org/2013/01/kich-hoat-tinh-nang-ho-tro-256-mau-cua.html"
+        },
+        {
+            "tag": "python",
+            "title": "Cùng học ruby ",
+            "link": "https://www.familug.org/2013/01/cung-hoc-ruby.html"
+        },
+        {
+            "tag": "python",
+            "title": "Keep it simple, stupid! (O(n!) vs O(2^n)",
+            "link": "https://www.familug.org/2011/09/keep-it-simple-stupid-on-vs-o2n.html"
+        },
+        {
+            "tag": "python",
+            "title": "Tài liệu và hướng dẫn học Python",
+            "link": "https://www.familug.org/2011/04/learning-python.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Bài tập 1: Viết chương trình in ra n số đầu tiên trong dãy Fibonacci",
+            "link": "https://www.familug.org/2010/08/python-bai-tap-1-viet-chuong-trinh-in.html"
+        },
+        {
+            "tag": "python",
+            "title": "[Python] Sử dụng python như 1 chiếc máy tính",
+            "link": "https://www.familug.org/2010/08/python-su-dung-python-nhu-1-chiec-may.html"
+        },
+        {
+            "tag": "python",
+            "title": "Python - Bài 2.2 - While, Note",
+            "link": "https://www.familug.org/2010/07/python-bai-22-while-note.html"
+        },
+        {
+            "tag": "python",
+            "title": "Python - Bài 2.1 - Danh sách và thay thế biến.",
+            "link": "https://www.familug.org/2010/07/python-bai-21-danh-sach-va-thay-bien.html"
+        },
+        {
+            "tag": "python",
+            "title": "Python - Bài 1: Làm quen với Python (Print,For)",
+            "link": "https://www.familug.org/2010/07/python-bai-1-lam-quen-voi-python.html"
+        },
+        {
+            "tag": "python",
+            "title": "Python và FAMILUG",
+            "link": "https://www.familug.org/2010/07/python-va-familug.html"
+        },
+        {
+            "tag": "command",
+            "title": "Di chuyển trên less - xem web bằng w3m",
+            "link": "https://www.familug.org/2018/09/di-chuyen-tren-less-xem-web-bang-w3m.html"
+        },
+        {
+            "tag": "command",
+            "title": "pgrep để grep process",
+            "link": "https://www.familug.org/2017/11/pgrep-e-grep-process.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] tail -F, F hoa F***",
+            "link": "https://www.familug.org/2016/09/tail-f-f-hoa-f.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI/docker] busybox - con dao lính tây của hệ thống nhúng Linux ",
+            "link": "https://www.familug.org/2016/07/clidocker-busybox-con-dao-linh-tay-cua.html"
+        },
+        {
+            "tag": "command",
+            "title": "PHG - Python tool để tạo password hàng loạt cho sysadmin",
+            "link": "https://www.familug.org/2016/07/phg-python-tool-e-tao-password-hang.html"
+        },
+        {
+            "tag": "command",
+            "title": "ag và tìm hoài không thấy",
+            "link": "https://www.familug.org/2016/05/ag-va-tim-hoai-khong-thay.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] fallocate - câu lệnh bắt đầu bằng chữ FA, để tạo ra những gì mình không có ",
+            "link": "https://www.familug.org/2016/03/fallocate-cau-lenh-bat-au-bang-chu-fa-e.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] namei - theo em đến cuối chân trời ",
+            "link": "https://www.familug.org/2016/02/cli-namei-theo-em-en-cuoi-chan-troi.html"
+        },
+        {
+            "tag": "command",
+            "title": "ag và grep ",
+            "link": "https://www.familug.org/2016/01/ag-va-grep.html"
+        },
+        {
+            "tag": "command",
+            "title": "[bash] trôi - in từng dòng của file theo phong cách slow-motion ",
+            "link": "https://www.familug.org/2015/08/bash-troi-in-tung-dong-cua-file-theo.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] watch - lót dép ngồi hóng",
+            "link": "https://www.familug.org/2015/07/cli-watch-lot-dep-ngoi-hong.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tạo file \"backup\" trước khi phá phách",
+            "link": "https://www.familug.org/2015/04/tao-file-backup-truoc-khi-pha-phach.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] top 10 process dùng nhiều tài nguyên nhất, tmux tip",
+            "link": "https://www.familug.org/2015/04/cli-top-10-process-dung-nhieu-tai.html"
+        },
+        {
+            "tag": "command",
+            "title": "man + man = men",
+            "link": "https://www.familug.org/2015/03/man-man-men.html"
+        },
+        {
+            "tag": "command",
+            "title": "inodes, statvfs, và các thông số cơ bản về một filesystem",
+            "link": "https://www.familug.org/2015/03/inodes-statvfs-va-cac-thong-so-co-ban.html"
+        },
+        {
+            "tag": "command",
+            "title": "[cmd] mối quan hệ giữa du, sudo và \"SH\"",
+            "link": "https://www.familug.org/2015/02/cmd-ghi-chu-ngan-ve-du-va-sudo.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] xargs - câu lệnh để xây dựng câu lệnh",
+            "link": "https://www.familug.org/2014/12/cli-xargs-cau-lenh-e-xay-dung-cau-lenh.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] printf",
+            "link": "https://www.familug.org/2014/12/cli-printf.html"
+        },
+        {
+            "tag": "command",
+            "title": "[Programming] phê ROT13",
+            "link": "https://www.familug.org/2014/12/programming-phe-rot13.html"
+        },
+        {
+            "tag": "command",
+            "title": "[cmd] linux utilities - có gì cần thiết?",
+            "link": "https://www.familug.org/2014/11/cmd-linux-utilities-co-gi-can-thiet.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] nối dòng",
+            "link": "https://www.familug.org/2014/10/cli-noi-dong.html"
+        },
+        {
+            "tag": "command",
+            "title": "[python] đếm số dòng của 1 file.",
+            "link": "https://www.familug.org/2014/09/python-em-so-dong-cua-1-file.html"
+        },
+        {
+            "tag": "command",
+            "title": "[cmd] find - tìm thấy mà không xoá được, why?",
+            "link": "https://www.familug.org/2014/06/cmd-find-tim-thay-ma-khong-xoa-uoc-why.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] less - view file trên terminal",
+            "link": "https://www.familug.org/2014/06/cli-less-view-file-tren-terminal.html"
+        },
+        {
+            "tag": "command",
+            "title": "tcpdump - lưu giữ mọi khoảnh khắc của network",
+            "link": "https://www.familug.org/2014/06/packet-capturing-with-tcpdump-command.html"
+        },
+        {
+            "tag": "command",
+            "title": "find - tìm hoài mà không thấy ",
+            "link": "https://www.familug.org/2014/06/find-tim-hoai-ma-khong-thay.html"
+        },
+        {
+            "tag": "command",
+            "title": "[network] ping - pong",
+            "link": "https://www.familug.org/2014/06/network-ping-pong.html"
+        },
+        {
+            "tag": "command",
+            "title": "Giới thiệu và hướng dẫn sử dụng cơ bản iptables (Firewall)",
+            "link": "https://www.familug.org/2014/06/gioi-thieu-va-huong-dan-su-dung-co-ban.html"
+        },
+        {
+            "tag": "command",
+            "title": "tmux revised",
+            "link": "https://www.familug.org/2014/05/tmux-revised.html"
+        },
+        {
+            "tag": "command",
+            "title": "[cmd] rev",
+            "link": "https://www.familug.org/2014/04/cmd-rev.html"
+        },
+        {
+            "tag": "command",
+            "title": "[bash] Script tạo user trên Linux OS-based",
+            "link": "https://www.familug.org/2014/03/bash-script-tao-user-tren-linux-os-based.html"
+        },
+        {
+            "tag": "command",
+            "title": "awk và cut",
+            "link": "https://www.familug.org/2014/03/awk-va-cut.html"
+        },
+        {
+            "tag": "command",
+            "title": "tcpdump - làm sao không quên? ",
+            "link": "https://www.familug.org/2013/12/tcpdump-lam-sao-khong-quen.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tìm xem một process dùng bao nhiêu RAM",
+            "link": "https://www.familug.org/2013/11/tim-xem-mot-process-dung-bao-nhieu-ram.html"
+        },
+        {
+            "tag": "command",
+            "title": "ps và những option ít được biết tới",
+            "link": "https://www.familug.org/2013/11/ps-va-nhung-option-it-uoc-biet-toi.html"
+        },
+        {
+            "tag": "command",
+            "title": "[linux] procps = ps + kill + sysctl + top + watch + ...",
+            "link": "https://www.familug.org/2013/10/linux-procps-ps-kill-sysctl-top-watch.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLI] Các lệnh quản lý package trên ubuntu/debian",
+            "link": "https://www.familug.org/2013/09/cli-cac-lenh-quan-ly-package-tren.html"
+        },
+        {
+            "tag": "command",
+            "title": "[bash] introspection ",
+            "link": "https://www.familug.org/2013/08/bash-introspection.html"
+        },
+        {
+            "tag": "command",
+            "title": "[cmd] find, cách dùng đơn giản nhất thay thế ls và tree",
+            "link": "https://www.familug.org/2013/07/cmd-find-cach-dung-on-gian-nhat-thay-ls.html"
+        },
+        {
+            "tag": "command",
+            "title": "rsync - công cụ copy siêu đẳng ",
+            "link": "https://www.familug.org/2013/06/rsync-cong-cu-copy-sieu-ang.html"
+        },
+        {
+            "tag": "command",
+            "title": "Ý nghĩa của các câu lệnh Linux ",
+            "link": "https://www.familug.org/2013/06/y-nghia-cua-cac-cau-lenh.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tạo Usb cài Ubuntu với 1 câu lệnh",
+            "link": "https://www.familug.org/2013/05/tao-usb-cai-ubuntu-voi-1-cau-lenh.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tìm độ dài của mã md5, sha1",
+            "link": "https://www.familug.org/2013/05/tim-o-dai-cua-ma-md5-sha1.html"
+        },
+        {
+            "tag": "command",
+            "title": "pastebinit và cho mọi người thấy bạn cài gì trên máy",
+            "link": "https://www.familug.org/2013/05/pastebinit-va-cho-moi-nguoi-thay-ban.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CCGU] Giới thiệu về shell",
+            "link": "https://www.familug.org/2013/05/ccgu-gioi-thieu-ve-shell.html"
+        },
+        {
+            "tag": "command",
+            "title": "cp hay ln",
+            "link": "https://www.familug.org/2013/05/cp-hay-ln.html"
+        },
+        {
+            "tag": "command",
+            "title": "nc, bạn biết chứ?",
+            "link": "https://www.familug.org/2013/04/nc-ban-biet-chu.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CCGU] Các câu lệnh để tìm hiểu câu lệnh (Phần 2)",
+            "link": "https://www.familug.org/2013/04/ccgu-cac-cau-lenh-e-tim-hieu-cau-lenh.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CMD] Các lệnh quản trị một máy tính Linux",
+            "link": "https://www.familug.org/2013/04/cmd-cac-lenh-quan-tri-mot-may-tinh-linux.html"
+        },
+        {
+            "tag": "command",
+            "title": "[SmartUsing] Tất cả là bởi user",
+            "link": "https://www.familug.org/2013/04/smartusing-tat-ca-la-boi-user.html"
+        },
+        {
+            "tag": "command",
+            "title": "FAMILUG's dpkg FAQ",
+            "link": "https://www.familug.org/2013/03/familugs-dpkg-faq.html"
+        },
+        {
+            "tag": "command",
+            "title": "curl",
+            "link": "https://www.familug.org/2013/03/curl.html"
+        },
+        {
+            "tag": "command",
+            "title": "tmux - scripting",
+            "link": "https://www.familug.org/2013/02/tmux-scripting.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tmux",
+            "link": "https://www.familug.org/2013/02/tmux.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tạo file hàng loạt ",
+            "link": "https://www.familug.org/2013/02/tao-file-hang-loat.html"
+        },
+        {
+            "tag": "command",
+            "title": "[PHP] code download nhạc từ nhaccuatui",
+            "link": "https://www.familug.org/2013/02/php-code-down-load-nhac-tu-nhaccuatui.html"
+        },
+        {
+            "tag": "command",
+            "title": "Kết nối wifi bằng dòng lệnh ",
+            "link": "https://www.familug.org/2013/01/ket-noi-wifi-bang-dong-lenh.html"
+        },
+        {
+            "tag": "command",
+            "title": "awk vs cut ",
+            "link": "https://www.familug.org/2013/01/awk-vs-cut.html"
+        },
+        {
+            "tag": "command",
+            "title": "[bash] cd đến thư mục vừa tạo ",
+            "link": "https://www.familug.org/2013/01/bash-cd-en-thu-muc-vua-tao.html"
+        },
+        {
+            "tag": "command",
+            "title": "[FMLB] Bài 1: `cut` vs all ",
+            "link": "https://www.familug.org/2012/12/fmlb-bai-1-all-vs-cut.html"
+        },
+        {
+            "tag": "command",
+            "title": "FMLBattle: 1 vs all ",
+            "link": "https://www.familug.org/2012/12/fmlbattle-1-vs-all.html"
+        },
+        {
+            "tag": "command",
+            "title": "[bash] Dùng bash thay máy tính cầm tay",
+            "link": "https://www.familug.org/2012/12/bash-dung-bash-thay-may-tinh-cam-tay.html"
+        },
+        {
+            "tag": "command",
+            "title": "[Tips] lại bash ",
+            "link": "https://www.familug.org/2012/11/tips-lai-bash.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CCGU] awk - pattern scanning and text processing language",
+            "link": "https://www.familug.org/2012/11/ccgu-awk-pattern-scanning-and-text.html"
+        },
+        {
+            "tag": "command",
+            "title": "Generate random data [Part1]",
+            "link": "https://www.familug.org/2012/10/generate-random-data-part1.html"
+        },
+        {
+            "tag": "command",
+            "title": "Vài \"combo\" lệnh dễ nhớ :D [sẽ được update]",
+            "link": "https://www.familug.org/2012/10/vai-combo-lenh-de-nho-d-se-uoc-update.html"
+        },
+        {
+            "tag": "command",
+            "title": "[Network] nmap - khảo sát 1 victim :D ",
+            "link": "https://www.familug.org/2012/10/nmap-khao-sat-1-victim-d.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CMD] xclip - paste, paste, paste",
+            "link": "https://www.familug.org/2012/09/cmd-xclip-paste-paste-paste.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tắt các thiết bị chuyển mạch để tiết kiệm pin ",
+            "link": "https://www.familug.org/2012/09/tat-cac-thiet-bi-chuyen-mach-e-tiet.html"
+        },
+        {
+            "tag": "command",
+            "title": "Nén, giải nén bằng command line trong Linux",
+            "link": "https://www.familug.org/2012/09/nen-giai-nen-bang-command-line-trong.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CLIC] CLI Challenge 1",
+            "link": "https://www.familug.org/2012/09/clic-cli-challenge-1.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tùy chính monitors bằng command line",
+            "link": "https://www.familug.org/2012/09/tuy-chinh-monitors-bang-command-line.html"
+        },
+        {
+            "tag": "command",
+            "title": "[Cmd] lsof - liệt kê các file đang mở ",
+            "link": "https://www.familug.org/2012/09/cmd-lsof-liet-ke-cac-file-ang-mo.html"
+        },
+        {
+            "tag": "command",
+            "title": "pstree - xem máy bạn chạy gì ",
+            "link": "https://www.familug.org/2012/08/pstree-xem-may-ban-chay-gi.html"
+        },
+        {
+            "tag": "command",
+            "title": "mkdir và những nghệ thuật quanh nó!",
+            "link": "https://www.familug.org/2012/04/mkdir-va-nhung-nghe-thuat-quanh-no.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CCGU] cd,pwd - di chuyển loanh quanh",
+            "link": "https://www.familug.org/2012/03/ccgu-cdpwd-di-chuyen-loanh-quanh.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CCGU] Các câu lệnh để tìm hiểu câu lệnh",
+            "link": "https://www.familug.org/2012/03/ccgu-cac-cau-lenh-e-tim-hieu-cau-lenh.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CCGU] CLI căn bản",
+            "link": "https://www.familug.org/2012/03/ccgu-cli-can-ban.html"
+        },
+        {
+            "tag": "command",
+            "title": "CCGU - cat cut grep uniq!",
+            "link": "https://www.familug.org/2012/03/ccgu-cat-cut-grep-uniq.html"
+        },
+        {
+            "tag": "command",
+            "title": "Nghe 1 bài nhạc hàng ngày",
+            "link": "https://www.familug.org/2012/03/nghe-1-bai-nhac-hang-ngay.html"
+        },
+        {
+            "tag": "command",
+            "title": "Kiểm tra xem cổng nào đang mở",
+            "link": "https://www.familug.org/2012/02/kiem-tra-xem-cong-nao-ang-mo.html"
+        },
+        {
+            "tag": "command",
+            "title": "Gửi dòng tin hiển thị lên màn hình",
+            "link": "https://www.familug.org/2012/02/gui-dong-tin-hien-thi-len-man-hinh.html"
+        },
+        {
+            "tag": "command",
+            "title": "List danh sách các file trong linux",
+            "link": "https://www.familug.org/2012/02/list-danh-sach-cac-file-trong-linux.html"
+        },
+        {
+            "tag": "command",
+            "title": "Sửa nhanh dòng lệnh bạn gõ sai",
+            "link": "https://www.familug.org/2011/12/sua-nhanh-dong-lenh-ban-go-sai.html"
+        },
+        {
+            "tag": "command",
+            "title": "Thêm phím tắt trong GNOME2",
+            "link": "https://www.familug.org/2011/12/them-phim-tat-trong-gnome2.html"
+        },
+        {
+            "tag": "command",
+            "title": "Bash - completion: gõ lệnh mỏi tay",
+            "link": "https://www.familug.org/2011/12/bash-completion-go-lenh-moi-tay.html"
+        },
+        {
+            "tag": "command",
+            "title": "Tìm kiếm string với grep",
+            "link": "https://www.familug.org/2011/10/tim-kiem-string-voi-grep.html"
+        },
+        {
+            "tag": "command",
+            "title": "Máy bạn đã bật được bao lâu?",
+            "link": "https://www.familug.org/2011/10/may-ban-bat-uoc-bao-lau.html"
+        },
+        {
+            "tag": "command",
+            "title": "[Bash] cd around the world",
+            "link": "https://www.familug.org/2011/10/bash-cd-around-world.html"
+        },
+        {
+            "tag": "command",
+            "title": "whatis - whereis - which - whois : hỏi Linux!",
+            "link": "https://www.familug.org/2011/09/whatis-whereis-whois-hoi-linux.html"
+        },
+        {
+            "tag": "command",
+            "title": "5 tool để nghịch ngợm với mạng",
+            "link": "https://www.familug.org/2011/09/5-tool-e-nghich-ngom-voi-mang.html"
+        },
+        {
+            "tag": "command",
+            "title": "10 mẹo hữu ích giúp bạn “làm chủ” các câu lệnh Linux đơn giản hơn",
+            "link": "https://www.familug.org/2010/11/10-meo-huu-ich-giup-ban-lam-chu-cac-cau.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CMD] cd | ls | pwd",
+            "link": "https://www.familug.org/2010/11/cmd-cd-ls-pwd.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CMD] Lệnh xem thông số phần cứng, driver",
+            "link": "https://www.familug.org/2010/10/cmd-lenh-xem-thong-so-phan-cung-driver.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CMD]Các lệnh về thư mục và tập tin",
+            "link": "https://www.familug.org/2010/06/cmdcac-lenh-ve-thu-muc-va-tap-tin.html"
+        },
+        {
+            "tag": "command",
+            "title": "[CMD] echo $PATH | type",
+            "link": "https://www.familug.org/2010/05/cmd-echo-path.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "7 init runlevel của hệ thống Linux",
+            "link": "https://www.familug.org/2017/10/7-init-runlevel-cua-he-thong-linux.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Chuyện gì xảy ra khi bạn gõ Google.com rồi Enter?",
+            "link": "https://www.familug.org/2017/08/network.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "RAM nhanh hơn SSD, HDD bao nhiêu? ",
+            "link": "https://www.familug.org/2017/07/ram-nhanh-hon-ssd-hdd-bao-nhieu.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "systemd là gì",
+            "link": "https://www.familug.org/2017/06/systemd.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "apt changelog và wannacry ",
+            "link": "https://www.familug.org/2017/05/apt-changelog-va-wannacry.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Di chuyển trong file",
+            "link": "https://www.familug.org/2017/05/python-seek.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[Linux] Từ super user đến Sysadmin ",
+            "link": "https://www.familug.org/2017/05/superuser-sysadmin.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Kubernetes - rồi cũng đến đít ",
+            "link": "https://www.familug.org/2017/04/kubernetes-end.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Phải set locale trong Upstart",
+            "link": "https://www.familug.org/2017/03/phai-set-locale-trong-upstart.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Đừng gọi cái máy chủ là server ",
+            "link": "https://www.familug.org/2017/03/ung-goi-may-chu-la-server.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "bash exit status không là -1 ",
+            "link": "https://www.familug.org/2017/03/exit-status.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Kubernetes từ đầu ...",
+            "link": "https://www.familug.org/2017/03/kubernetes.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[systemd] journalctl cho người mới tập chơi ",
+            "link": "https://www.familug.org/2017/02/systemd-journalctl-cho-nguoi-moi-tap.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Cấu hình hệ thống email để không bị quẳng vào Spam ",
+            "link": "https://www.familug.org/2017/02/cau-hinh-he-thong-email-e-khong-bi.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Dựng HTTP server bằng một câu lệnh ",
+            "link": "https://www.familug.org/2017/02/dung-http-server-bang-mot-cau-lenh.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[Debian] Khám phá các tiện ích trong package dpkg ",
+            "link": "https://www.familug.org/2016/12/dpkg.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Làm quen với Ansible - viết playbook đơn giản ",
+            "link": "https://www.familug.org/2016/12/ansible-playbook.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Làm quen với Ansible - module, ad-hoc command",
+            "link": "https://www.familug.org/2016/12/ansible-command.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "upstart script chạy bằng /bin/sh -e",
+            "link": "https://www.familug.org/2016/11/upstart-script.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Kiểm tra máy ảo, liệt kê danh sách các device ",
+            "link": "https://www.familug.org/2016/10/kiem-tra-may-ao-liet-ke-danh-sach-cac.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[Backup] Ký tự % trong crontab ",
+            "link": "https://www.familug.org/2016/10/backup-crontab-osx.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Luật bất thành văn của sysadmin",
+            "link": "https://www.familug.org/2016/09/luat-bat-thanh-van-cua-sysadmin.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[CLI] tail -F, F hoa F***",
+            "link": "https://www.familug.org/2016/09/tail-f-f-hoa-f.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[CLI/docker] busybox - con dao lính tây của hệ thống nhúng Linux ",
+            "link": "https://www.familug.org/2016/07/clidocker-busybox-con-dao-linh-tay-cua.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "PHG - Python tool để tạo password hàng loạt cho sysadmin",
+            "link": "https://www.familug.org/2016/07/phg-python-tool-e-tao-password-hang.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "SNI - giải pháp chạy nhiều SSL/TLS cert trên cùng 1 IP ",
+            "link": "https://www.familug.org/2016/05/sni-giai-phap-chay-nhieu-ssl-cert-tren.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[python] test python đơn giản như giật một sợi tox ",
+            "link": "https://www.familug.org/2016/04/python-test-python-on-gian-nhu-giat-mot.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Chạy service bằng port < 1024 - không cần quyền root ",
+            "link": "https://www.familug.org/2015/12/chay-service-bang-port-1024-ma-khong.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Ghi nháy về lọc process theo state bằng check_procs",
+            "link": "https://www.familug.org/2015/11/ghi-nhay-ve-loc-process-theo-state-bang.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Mirroring apt repository với apt-mirror ",
+            "link": "https://www.familug.org/2015/10/mirror-apt-repository-voi-apt-mirror.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Vagrant, những bước chân lang thang...",
+            "link": "https://www.familug.org/2015/08/vagrant-nhung-buoc-chan-lang-thang.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[SaltStack] Chào Muối, em là ai?",
+            "link": "https://www.familug.org/2015/06/saltstack-chao-muoi-em-la-ai.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[Debian] update-alternatives: thay đổi là sự lựa chọn!",
+            "link": "https://www.familug.org/2015/06/debian-update-alternatives-thay-oi-la.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "ghi chú nhanh về cron",
+            "link": "https://www.familug.org/2015/04/ghi-chu-nhanh-ve-cron.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[Sysad] một trận chiến giữa netcat và tcpdump",
+            "link": "https://www.familug.org/2015/04/sysad-mot-tran-chien-giua-netcat-va.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Kiểm tra một process đang chạy hay không (dựa vào PID)?",
+            "link": "https://www.familug.org/2015/03/pythonsysad-kiem-tra-mot-process-ang.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "man + man = men",
+            "link": "https://www.familug.org/2015/03/man-man-men.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "inodes, statvfs, và các thông số cơ bản về một filesystem",
+            "link": "https://www.familug.org/2015/03/inodes-statvfs-va-cac-thong-so-co-ban.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Để trờ thành Linux sysadmin ...",
+            "link": "https://www.familug.org/2015/01/e-tro-thanh-linux-sysadmin.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[Sec] SASL",
+            "link": "https://www.familug.org/2014/12/sec-sasl.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "sysctl - cấu hình các tham số kernel khi đang chạy",
+            "link": "https://www.familug.org/2014/12/sysctl-cau-hinh-cac-tham-so-kernel-khi.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[postgres] Xem các số liệu thống kê về Postgresql",
+            "link": "https://www.familug.org/2014/12/postgres-xem-cac-so-lieu-thong-ke-ve.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[rabbitmq] ghi chú nhanh về user chạy rabbitmq",
+            "link": "https://www.familug.org/2014/11/rabbitmq-ghi-chu-nhanh-ve-user-chay.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[cmd] linux utilities - có gì cần thiết?",
+            "link": "https://www.familug.org/2014/11/cmd-linux-utilities-co-gi-can-thiet.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[bash] shellshock - từ gốc đến ngọn",
+            "link": "https://www.familug.org/2014/09/bash-shellshock-tu-goc-en-ngon.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Chạy lệnh với quyền của user khác ",
+            "link": "https://www.familug.org/2014/08/chay-lenh-voi-quyen-cua-user-khac.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[basic] hostname",
+            "link": "https://www.familug.org/2014/08/basic-hostname.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[NGINX] luật matching khi chọn location để xử lý 1 request",
+            "link": "https://www.familug.org/2014/08/nginx-luat-matching-khi-chon-location-e.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[OS] niceness",
+            "link": "https://www.familug.org/2014/08/os-niceness.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "tcpdump - lưu giữ mọi khoảnh khắc của network",
+            "link": "https://www.familug.org/2014/06/packet-capturing-with-tcpdump-command.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[network] ping - pong",
+            "link": "https://www.familug.org/2014/06/network-ping-pong.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Giới thiệu và hướng dẫn sử dụng cơ bản iptables (Firewall)",
+            "link": "https://www.familug.org/2014/06/gioi-thieu-va-huong-dan-su-dung-co-ban.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Vài chú ý khi viết file cron/crontab",
+            "link": "https://www.familug.org/2014/04/vai-chu-y-khi-viet-file-croncrontab.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[Monitoring] iostat - hiển thị các thông tin thống kê về CPU và I/O ",
+            "link": "https://www.familug.org/2013/12/monitoring-iostat-hien-thi-cac-thong.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "NGINX beginner",
+            "link": "https://www.familug.org/2013/10/nginx-beginner.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Công cụ quản lý truy cập đến nhiều server",
+            "link": "https://www.familug.org/2013/09/cong-cu-quan-ly-truy-cap-en-nhieu-server.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[CLI] Các lệnh quản lý package trên ubuntu/debian",
+            "link": "https://www.familug.org/2013/09/cli-cac-lenh-quan-ly-package-tren.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Java cho Sysadmin",
+            "link": "https://www.familug.org/2013/08/java-cho-sysadmin.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Đừng chạy theo bản XX.0",
+            "link": "https://www.familug.org/2013/07/ung-chay-theo-ban-xx0.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[bash] function đọc đầu vào qua pipeline",
+            "link": "https://www.familug.org/2013/07/bash-function-oc-au-vao-qua-pipeline.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Script hay làm bằng tay?",
+            "link": "https://www.familug.org/2013/06/script-hay-lam-bang-tay.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Danh sách port và service tương ứng trên Linux",
+            "link": "https://www.familug.org/2013/06/danh-sach-port-va-service-tuong-ung.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Thư viện trên Linux",
+            "link": "https://www.familug.org/2013/06/thu-vien-tren-linux.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[Bài học] sau một ngày đánh vật với laptop HP Pavilion",
+            "link": "https://www.familug.org/2013/05/bai-hoc-sau-mot-ngay-anh-vat-voi-laptop.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Tìm các package đã cài liên quan đến XXX",
+            "link": "https://www.familug.org/2013/05/tim-cac-package-cai-lien-quan-en-xxx.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Mariadb thay Mysql",
+            "link": "https://www.familug.org/2013/05/mariadb-thay-mysql.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "nc, bạn biết chứ?",
+            "link": "https://www.familug.org/2013/04/nc-ban-biet-chu.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[CCGU] Các câu lệnh để tìm hiểu câu lệnh (Phần 2)",
+            "link": "https://www.familug.org/2013/04/ccgu-cac-cau-lenh-e-tim-hieu-cau-lenh.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Cài đặt apt-cacher để tiết kiệm thời gian...",
+            "link": "https://www.familug.org/2013/03/cai-at-apt-cacher-e-tiet-kiem-thoi-gian.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "[cmd] cấu hình và quản lý mạng trên Linux",
+            "link": "https://www.familug.org/2013/03/cmd-cau-hinh-va-quan-ly-mang-tren-linux.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "FAMILUG guide to web server",
+            "link": "https://www.familug.org/2013/03/familug-guide-to-web-server.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "ubuntu - gỡ/tắt những chương trình không cần thiết ",
+            "link": "https://www.familug.org/2013/03/ubuntu-gotat-nhung-chuong-trinh-khong.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "tmux - scripting",
+            "link": "https://www.familug.org/2013/02/tmux-scripting.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Tmux",
+            "link": "https://www.familug.org/2013/02/tmux.html"
+        },
+        {
+            "tag": "sysadmin",
+            "title": "Cài đặt, cấu hình, quản trị mysql-server",
+            "link": "https://www.familug.org/2013/01/cai-at-cau-hinh-quan-tri-mysql-server.html"
+        }
+    ]
+}
